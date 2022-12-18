@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django Projects<br>🌱 I’m currently learning Django/ REST API's<br>💬 Ask me about Front End and backend related and also you can ask about databases concepts.<br>📫 Catch Me On Twitter<br>😄 Pronouns: he/him/his
+🔭 I’m currently working on Django Projects<br>🌱 I’m currently learning Django/ REST API's<br>💬 Ask me about Front End and backend related and also you can ask about databases concepts.<br>😄 Pronouns: he/him/his
 
 
 # 📊 GitHub Stats:
